@@ -1,0 +1,66 @@
+c:\users\sergio\documents\visual studio 2015\Projects\AngularForms\AngularForms\bin\ApplicationInsights.config
+c:\users\sergio\documents\visual studio 2015\Projects\AngularForms\AngularForms\bin\roslyn\csc.exe
+c:\users\sergio\documents\visual studio 2015\Projects\AngularForms\AngularForms\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\sergio\documents\visual studio 2015\Projects\AngularForms\AngularForms\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\sergio\documents\visual studio 2015\Projects\AngularForms\AngularForms\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\sergio\documents\visual studio 2015\Projects\AngularForms\AngularForms\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\sergio\documents\visual studio 2015\Projects\AngularForms\AngularForms\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\sergio\documents\visual studio 2015\Projects\AngularForms\AngularForms\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\sergio\documents\visual studio 2015\Projects\AngularForms\AngularForms\bin\roslyn\System.Collections.Immutable.dll
+c:\users\sergio\documents\visual studio 2015\Projects\AngularForms\AngularForms\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\sergio\documents\visual studio 2015\Projects\AngularForms\AngularForms\bin\roslyn\vbc.exe
+c:\users\sergio\documents\visual studio 2015\Projects\AngularForms\AngularForms\bin\roslyn\VBCSCompiler.exe
+c:\users\sergio\documents\visual studio 2015\Projects\AngularForms\AngularForms\bin\roslyn\VBCSCompiler.exe.config
+c:\users\sergio\documents\visual studio 2015\Projects\AngularForms\AngularForms\bin\AngularForms.dll.config
+c:\users\sergio\documents\visual studio 2015\Projects\AngularForms\AngularForms\bin\AngularForms.dll
+c:\users\sergio\documents\visual studio 2015\Projects\AngularForms\AngularForms\bin\AngularForms.pdb
+c:\users\sergio\documents\visual studio 2015\Projects\AngularForms\AngularForms\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\sergio\documents\visual studio 2015\Projects\AngularForms\AngularForms\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\sergio\documents\visual studio 2015\Projects\AngularForms\AngularForms\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\sergio\documents\visual studio 2015\Projects\AngularForms\AngularForms\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\sergio\documents\visual studio 2015\Projects\AngularForms\AngularForms\bin\Microsoft.AI.Web.dll
+c:\users\sergio\documents\visual studio 2015\Projects\AngularForms\AngularForms\bin\Microsoft.AI.WindowsServer.dll
+c:\users\sergio\documents\visual studio 2015\Projects\AngularForms\AngularForms\bin\Microsoft.ApplicationInsights.dll
+c:\users\sergio\documents\visual studio 2015\Projects\AngularForms\AngularForms\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\sergio\documents\visual studio 2015\Projects\AngularForms\AngularForms\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\sergio\documents\visual studio 2015\Projects\AngularForms\AngularForms\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\sergio\documents\visual studio 2015\Projects\AngularForms\AngularForms\bin\Microsoft.AI.Web.xml
+c:\users\sergio\documents\visual studio 2015\Projects\AngularForms\AngularForms\bin\Microsoft.AI.WindowsServer.xml
+c:\users\sergio\documents\visual studio 2015\Projects\AngularForms\AngularForms\bin\Microsoft.ApplicationInsights.xml
+c:\users\sergio\documents\visual studio 2015\Projects\AngularForms\AngularForms\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\sergio\documents\visual studio 2015\Projects\AngularForms\AngularForms\obj\Debug\AngularForms.csprojResolveAssemblyReference.cache
+c:\users\sergio\documents\visual studio 2015\Projects\AngularForms\AngularForms\obj\Debug\AngularForms.dll
+c:\users\sergio\documents\visual studio 2015\Projects\AngularForms\AngularForms\obj\Debug\AngularForms.pdb
+C:\Users\Sergio\Source\Repos\Colorado\AngularForms\bin\ApplicationInsights.config
+C:\Users\Sergio\Source\Repos\Colorado\AngularForms\bin\roslyn\csc.exe
+C:\Users\Sergio\Source\Repos\Colorado\AngularForms\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Sergio\Source\Repos\Colorado\AngularForms\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Sergio\Source\Repos\Colorado\AngularForms\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Sergio\Source\Repos\Colorado\AngularForms\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Sergio\Source\Repos\Colorado\AngularForms\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Sergio\Source\Repos\Colorado\AngularForms\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Sergio\Source\Repos\Colorado\AngularForms\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Sergio\Source\Repos\Colorado\AngularForms\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Sergio\Source\Repos\Colorado\AngularForms\bin\roslyn\vbc.exe
+C:\Users\Sergio\Source\Repos\Colorado\AngularForms\bin\roslyn\VBCSCompiler.exe
+C:\Users\Sergio\Source\Repos\Colorado\AngularForms\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Sergio\Source\Repos\Colorado\AngularForms\bin\AngularForms.dll.config
+C:\Users\Sergio\Source\Repos\Colorado\AngularForms\bin\AngularForms.dll
+C:\Users\Sergio\Source\Repos\Colorado\AngularForms\bin\AngularForms.pdb
+C:\Users\Sergio\Source\Repos\Colorado\AngularForms\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Sergio\Source\Repos\Colorado\AngularForms\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Sergio\Source\Repos\Colorado\AngularForms\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Sergio\Source\Repos\Colorado\AngularForms\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Sergio\Source\Repos\Colorado\AngularForms\bin\Microsoft.AI.Web.dll
+C:\Users\Sergio\Source\Repos\Colorado\AngularForms\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Sergio\Source\Repos\Colorado\AngularForms\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Sergio\Source\Repos\Colorado\AngularForms\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Sergio\Source\Repos\Colorado\AngularForms\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Sergio\Source\Repos\Colorado\AngularForms\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Sergio\Source\Repos\Colorado\AngularForms\bin\Microsoft.AI.Web.xml
+C:\Users\Sergio\Source\Repos\Colorado\AngularForms\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Sergio\Source\Repos\Colorado\AngularForms\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Sergio\Source\Repos\Colorado\AngularForms\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Sergio\Source\Repos\Colorado\AngularForms\obj\Debug\AngularForms.csprojResolveAssemblyReference.cache
+C:\Users\Sergio\Source\Repos\Colorado\AngularForms\obj\Debug\AngularForms.dll
+C:\Users\Sergio\Source\Repos\Colorado\AngularForms\obj\Debug\AngularForms.pdb
